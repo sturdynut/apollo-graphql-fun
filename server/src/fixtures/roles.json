@@ -1,0 +1,24 @@
+{
+  "roles": [
+    {
+      "title": "Full-Stack Developer",
+      "employers": [
+        {
+          "name": "Rentec Direct",
+          "startDate": "2019-08-08",
+          "accomplishments": ["everything"]
+        }
+      ]
+    },
+    {
+      "title": "Code Monkey",
+      "employers": [
+        {
+          "name": "Rentec Direct",
+          "startDate": "2019-08-08",
+          "accomplishments": ["everything"]
+        }
+      ]
+    }
+  ]
+}
