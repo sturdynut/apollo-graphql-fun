@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.9.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
